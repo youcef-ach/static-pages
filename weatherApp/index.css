@@ -1,0 +1,13 @@
+@font-face {
+  font-family: mainFont;
+  src: url("./fonts/Roboto/Roboto-BlackItalic.ttf");
+}
+
+h1 {
+  font-family: mainFont;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
